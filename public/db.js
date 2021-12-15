@@ -45,7 +45,6 @@ function checkDB() {
                         const transaction = db.transaction(['BudgetStore'], 'readwrite');
                         const currentStore = transaction.objectStore('BudgetStore');
                         currentStore.clear();
-                        console.log('Clearing store 🧹');
                     }
                 });
         }
