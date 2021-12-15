@@ -15,11 +15,11 @@ Helps user keep track of finances.
 - [License](#license)
 
 ## Installation
-
+https://mdukeshire-progressive-budget.herokuapp.com/
 
 ## Usage
 User can add or subtract funds while offline, they will be added when back online.
-
+https://drive.google.com/file/d/1F5IGXCq6wCQa8Do7ry43TdQMHEEcuijc/view
 ## contributing
 
 
